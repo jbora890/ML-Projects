@@ -1,14 +1,32 @@
-# ML-Projects
 # Iris Classification using Machine Learning
 
+## Project Overview
 This project demonstrates a basic machine learning workflow using the Iris dataset.
-
-## Features
-- Data visualization using Matplotlib
-- Model training using Decision Tree and KNN
-- Model evaluation using accuracy score
 
 ## Technologies Used
 - Python
+- NumPy, Pandas
+- Matplotlib
 - Scikit-learn
-- NumPy, Pandas, Matplotlib
+
+## Models Used
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+
+## Results
+- Compared model performance using accuracy
+- Visualized dataset using scatter plots
+
+## Output
+![Output](images/output.png)
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run Jupyter Notebook:
+   jupyter notebook
+
+## Learning Outcome
+- Understanding ML workflow
+- Model training and evaluation
