@@ -18,7 +18,11 @@ This project demonstrates a basic machine learning workflow using the Iris datas
 - Visualized dataset using scatter plots
 
 ## Output
-![Output](images/output.png)
+### Visualization
+![Graph](images/graph.png)
+
+### Model Accuracy & Prediction
+![Accuracy](images/accu_and_pred.png)
 
 ## How to Run
 1. Install dependencies:
